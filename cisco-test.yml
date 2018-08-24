@@ -1,5 +1,5 @@
 - name: Check if Telnet is enabled
-
+  hosts: all
   tasks:
   - name: TELNET CHECK
     ios_command:
