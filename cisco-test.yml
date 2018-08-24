@@ -1,5 +1,4 @@
 - name: Check if Telnet is enabled
-- hosts: Cisco
 
   tasks:
   - name: TELNET CHECK
